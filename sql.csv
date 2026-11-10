@@ -1,0 +1,6 @@
+id_alunos,nome,cpf,data_nascimento,email,telefone,data_matricula,id_curso
+1,Ana Souza,11122233344,2005-03-14,ana@email.com,21999990001,2026-02-01,1
+2,Bruno Lima,22233344455,2004-07-22,bruno@email.com,21999990002,2026-02-01,1
+3,Carla Mendes,33344455566,2003-11-05,carla@email.com,21999990003,2026-02-03,2
+4,Diego Ferreira,44455566677,2006-01-30,diego@email.com,21999990004,2026-02-05,10
+6,joana,11122253344,2005-04-21,joana@email.com,21911110002,2026-02-07,1
